@@ -1,0 +1,19 @@
+.brand {
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+}
+
+.brand__part1 {
+    color: #8499a7;
+}
+
+.brand__part2 {
+        color: #21b8c6;
+}
+
+
+.btn-primary{
+	display: block;
+
+}
